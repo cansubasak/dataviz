@@ -1,2 +1,2 @@
-# dataviz
-Data visualization notebooks
+# Collection of data visualization notebooks
+
